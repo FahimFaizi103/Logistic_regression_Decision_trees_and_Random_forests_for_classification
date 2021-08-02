@@ -1,0 +1,45 @@
+
+
+
+In Apparel and Footwear Industry, colour matching is a critical factor. For=
+ example, when a Lead Designer of a major fashion brand has picked the colo=
+ur for the season, he/she would want the exact colour on the produced garme=
+nts. This means all hundreds of thousands of garments need to have the same=
+ colour. This is challenging because there are so many factors affecting co=
+lour: for example, different materials (e.g. cotton, polyester, leather) ha=
+ve different dye absorption rate; water properties (pH, purity, etc); ambie=
+nt temperature; dyes concentration; chemical properties; etc.
+
+
+
+One of the key reasons why this company has become one of the leading players in t=
+he Apparel and Footwear Industry is because our colour solution cracks t=
+his issue. Every year, the company dyes over one billion SKUs (Stock Keeping Unit=
+s) into 157,000 unique colours. And most of the time, we get the colour rig=
+ht first time.
+
+
+
+However, one of our dye-houses has a higher fail =
+rate. The head of the dye-house has asked the Data Science team wheth=
+er it is possible to predict batches which are most likely to fail, so that=
+ they can take a range of pre-emptive actions.
+
+You are member of our data science team. We have scheduled a meeting in =
+one week's time with the head of the dye-house in which you will pres=
+ent our findings of the failed dyes issue.
+
+
+
+You are in charge of building the model and to establish the viability of s=
+uch a model: For training your model you are provided with a dataset which =
+includes features of dyed batches as well as the information about whether =
+or not they have failed. Also while it is not mandatory, you are encouraged=
+ to test multiple algorithms.
+
+
+Using the trained model you shall score batches in the test data set =
+and put them in descending order of the probability of failing. You should =
+also classify these batches into two classes: those which you predict to fa=
+il are to be labelled "Fail" and the remaining batches should be labelled "=
+Pass" in the test.template file
