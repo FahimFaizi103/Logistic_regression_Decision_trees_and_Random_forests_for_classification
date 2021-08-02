@@ -1,1 +1,3 @@
-# Logistic_regression_Decision_trees_and_Random_forests_for_classification
+ - I provide a Jupyter notebook whihc details a tutorial for performing Logistic regression and using Decision trees and random forests for classification with Scikit-Learn.
+ - A Dummy data is provided.
+ - It is recommended that the reader/learner replicates the Jupyter notebook. 
